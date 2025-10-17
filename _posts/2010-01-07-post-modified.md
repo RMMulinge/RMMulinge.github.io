@@ -1,14 +1,21 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
-categories:
-  - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
----
-
-This post has been updated and should show a modified date if used in a layout.
-
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+Post 1: "Building My First Full-Stack MERN Application"
+markdown
+- **Excerpt:** "A deep dive into creating my blog management app with MongoDB, Express.js, React, and Node.js"
+- **Tags:** MERN, JavaScript, React, Node.js, MongoDB, Full-Stack
+- **Content:** Share your learning journey, challenges faced, and solutions implemented
+Post 2: "IT Infrastructure Internship: Lessons from ABC Bank"
+markdown
+- **Excerpt:** "Hands-on experience with network security, VLAN configuration, and enterprise IT support"
+- **Tags:** IT-Support, Networking, Security, VLAN, CCTV, Internship
+- **Content:** Document specific tasks and skills gained during your internship
+Post 3: "From C# to JavaScript: My Programming Journey"
+markdown
+- **Excerpt:** "Comparing desktop application development with C# and web development with JavaScript"
+- **Tags:** C#, JavaScript, Desktop-Apps, Web-Development, Programming
+- **Content:** Share insights from building both desktop and web applications
+Post 4: "Certification Journey: AWS & Cybersecurity"
+markmarkdown
+- **Excerpt:** "My progress and learnings from pursuing AWS Cloud and Google Cybersecurity certifications"
+- **Tags:** AWS, Cybersecurity, Certifications, Cloud-Computing, Learning
+- **Content:** Track your certification progress and share key takeaways
