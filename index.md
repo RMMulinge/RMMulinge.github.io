@@ -103,7 +103,7 @@ Highly motivated and passionate Information Technology student with a strong int
 
 ## 📞 Contact Information
 
-**Email:** monteabraham2@gmail.com  
+**Email:** reaganmulinge003@gmail.com  
 **Phone:** 0110056466  
 **Location:** Mombasa, Kenya  
 **GitHub:** github.com/reagamminge  
