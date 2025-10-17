@@ -1,29 +1,22 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
----
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Post 1: "Building My First Full-Stack MERN Application"
+markdown
+- **Excerpt:** "A deep dive into creating my blog management app with MongoDB, Express.js, React, and Node.js"
+- **Tags:** MERN, JavaScript, React, Node.js, MongoDB, Full-Stack
+- **Content:** Share your learning journey, challenges faced, and solutions implemented
+Post 2: "IT Infrastructure Internship: Lessons from ABC Bank"
+markdown
+- **Excerpt:** "Hands-on experience with network security, VLAN configuration, and enterprise IT support"
+- **Tags:** IT-Support, Networking, Security, VLAN, CCTV, Internship
+- **Content:** Document specific tasks and skills gained during your internship
+Post 3: "From C# to JavaScript: My Programming Journey"
+markdown
+- **Excerpt:** "Comparing desktop application development with C# and web development with JavaScript"
+- **Tags:** C#, JavaScript, Desktop-Apps, Web-Development, Programming
+- **Content:** Share insights from building both desktop and web applications
+Post 4: "Certification Journey: AWS & Cybersecurity"
+markmarkdown
+- **Excerpt:** "My progress and learnings from pursuing AWS Cloud and Google Cybersecurity certifications"
+- **Tags:** AWS, Cybersecurity, Certifications, Cloud-Computing, Learning
+- **Content:** Track your certification progress and share key takeaways
